@@ -1,0 +1,3 @@
+display_name: Java Course Lab Assistant
+short_description: Java lab coding, testing, and reports
+default_prompt: "Help me complete this Java course experiment carefully: read the requirements, identify the experiment number, create a runnable .java program in the matching experiment-number folder, test it, and prepare a report only if requested."
